@@ -8,6 +8,13 @@
       "when": 1774038060863,
       "tag": "0000_rapid_hannibal_king",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1774038565754,
+      "tag": "0001_flimsy_gunslinger",
+      "breakpoints": true
     }
   ]
 }
